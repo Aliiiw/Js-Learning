@@ -1,12 +1,4 @@
-// Objects
+// Array
 
-let name = "ali";
-let age = 22;
-
-let person = {
-  name: "ali",
-  age: 22
-};
-
-console.log(person.name);
-console.log(person["name"]);
+let colors = ["red", "blue"];
+console.log(colors[0]);
